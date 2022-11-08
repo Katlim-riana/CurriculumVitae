@@ -1,0 +1,10 @@
+.formation{
+    font-family: 'Trebuchet MS';
+    font-size: 15px;
+    color: blueviolet;
+}
+.Education li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: left;
+    list-style: none;
+}
